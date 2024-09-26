@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanjaiswal146&label=Profile%20views&color=0e75b6&style=flat" alt="ishanjaiswal146" /> </p>
 
-- 💬 Ask me about **React, JS, C**
+- 💬 Ask me about **Python, Power BI, SQL, Excel**
 
 - 📫 How to reach me **ishanjaiswal146@gmail.com**
 
